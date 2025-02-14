@@ -1,0 +1,1 @@
+{"idx": 75, "lr": 0.001, "hidden_size": 256, "l2_reg": 0.01, "batch_size": 16}

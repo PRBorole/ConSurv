@@ -1,0 +1,1 @@
+{"max_depth": 40, "lr": 0.001, "n_estimators": 750, "lambda": 0.01, "alpha": 0.1, "aft_loss_distribution": 1.2}

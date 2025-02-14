@@ -1,0 +1,1 @@
+{"idx": 130, "lr": 1e-05, "hidden_size": 128, "l2_reg": 0.1, "batch_size": 64, "dropout": 0.1}
