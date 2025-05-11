@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="200" alt="ConSurv" src="./figures/Logo.png/">
+  <img height="200" alt="ConSurv" src="./Figures/Logo.png/">
 </div>
 
 <div align="center">
